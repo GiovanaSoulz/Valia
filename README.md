@@ -2,7 +2,7 @@
 
 API REST em **Java 21 + Spring Boot** que ajuda trabalhadores (domésticos, informais e CLT) a identificar
 **possíveis** irregularidades nas próprias condições de trabalho e a estimar **valores de referência**
-que deixaram de receber. A mesma API é consumida pelo app Mobile.
+que deixaram de receber.
 
 > Os resultados são sinais e valores de referência, **não** parecer jurídico. Toda resposta de relatório traz esse aviso.
 
